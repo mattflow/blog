@@ -16,6 +16,8 @@ email_username:  your-email@yourdomain.com
 # google_tracking_id:
 
 # Build settings
+sass:
+  style: compressed
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
