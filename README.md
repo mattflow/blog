@@ -1,6 +1,8 @@
 Personal Blog
 =============
 
+You can visit this live blog [here](https://mattflow.github.io/blog/).
+
 This is my personal blog. I originally had it on my main GitHub Pages site, but I
 decided to move it to its own repository.
 
