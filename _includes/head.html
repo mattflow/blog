@@ -12,7 +12,7 @@
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ "/assets/css/bootstrap.min.css" | prepend: site.baseurl }}">
 
-    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl}}?{{ site.time | date: '%s%N' }}">
 
     <!-- Custom Fonts -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
