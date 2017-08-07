@@ -5,6 +5,7 @@ subtitle: "So you can have an amazing, super awesome site like this one."
 date:   2017-04-04 15:36:48 -0400
 author: "Matt Flowers"
 header-img: "assets/img/post-bg-02.jpg"
+comments: true
 ---
 
 [Jekyll](https://jekyllrb.com/) is an awesome tool that is written in Ruby and used to generate 

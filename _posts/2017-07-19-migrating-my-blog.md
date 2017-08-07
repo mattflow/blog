@@ -5,6 +5,7 @@ subtitle:   "Believe it or not, my blog wasn't always as beautiful as it is now.
 date:       2017-07-19 17:49:00
 author:     "Matt Flowers"
 header-img: "assets/img/post-bg-01.jpg"
+comments: true
 ---
 
 A couple years ago I was very ambitious and just learning about web development.
