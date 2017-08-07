@@ -3,3 +3,7 @@
 
 @import "clean-blog";
 @import "syntax";
+
+pre code {
+  white-space: pre;
+}
