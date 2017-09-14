@@ -73,3 +73,9 @@ This has algorithm has a very low chance of collisions.
 Keep in mind that this hash is meant to return a UNIQUE color, not a random one.
 Because of this, some similar words might have similar colors. Also, the longer
 the word/phrase, the more scrambled the hash will become.
+
+You can demo my string color webpage [here](https://mattflow.github.io/string-color).
+
+There is currently a bug in chrome that makes an off-color square appear behind
+the input box. If that is bothering you, I would try using another browser or even
+try it on mobile!
