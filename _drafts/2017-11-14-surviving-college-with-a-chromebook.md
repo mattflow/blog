@@ -29,5 +29,65 @@ your Chromebook, back up just about any kind of file in your Drive.
 
 ## Programming
 
+This area is what I thought would be the biggest problem when switching to my
+chromebook for full-time schoolwork. I did a bit of research and I was able
+to come across a bunch of different ways to program in any language you would like.
+These are some of the approaches I came across while figuring out which I like the
+best.
+
+### 1. Online IDE
+
+An online IDE is exactly what it sounds like. A full development environment inside
+of your web browser. Most of these online environments are ususally just a full linux
+installation with a terminal, file navigator, and text editor.
+
+There are many different websites and services that provide an online environment for
+programming but my favorite is Cloud9. Cloud9 is completely free with the option to
+purchase more powerful environments or an environment with more disk space. Cloud9
+provides the user with everything they need to most development. You really get your
+own linux virtual machine and you can install anything you would like on it.
+
+The only thing that you are unable to do is develop .NET applications. Even with
+the cross platform .NET Core, the initial package restore takes up all space on
+the VM if you are using the free tier.
+
+### 2. Crouton
+
+If an online IDE is not your thing, you can take it a step further and install
+linux right on your chromebook. This is by far my favorite way to program on
+my chromebook. Crouton is a very large script written by a Google employee. It
+takes the extremely messy process of install linux under a mountable chroot and
+makes it very elegant. Once you use crouton to install a chroot, you can simply open
+the chromeos developer shell and boot into your new linux installation.
+
+### 3. SSH
+
+This approach will only work for a specific group of people. This works for someone
+who is okay with developing straight from a terminal only (I'm talking about you,
+vim users), and people who have access to a server they can ssh into. There are useful
+chrome apps that are ssh clients and using these, you can ssh into any server that
+you have access to. Since my school provides the students with a development server,
+I often found myself logging in in order to get some development done.
 
 ## Entertainment
+
+The last thing that is very important to me is entertainment. When I am done with
+schoolwork and I want to sit back and relax, I go to websites like Netflix, YouTube,
+and Twitch. So I really just need a machine that can stream light video. When first
+getting my chromebook, it streamed video with no problems. It was fast, great quality,
+and it never heated up in my lap. Lately it hasn't been performing as well as I would
+like. Most video that I stream ends up stuttering and is not smooth. This is sad
+considering how spec'd out my chromebook is. I would need to see if it is just an
+issue with my somewhat old, used chromebook, or if it is actually a hardware issue.
+
+
+## Decision Time
+
+For anyone who isn't required to use heavy duty programs, I think a chromebook
+is your best bet. So far in my four years of college, I have not used any program
+or had to do any programming that couldn't be done on my chromebook, and online
+IDE, or a light xubuntu installation on my machine. I will say that I am a complete
+linux head, so if you are unfamiliar with development on linux, most of the 
+programming options I listed above might be difficult for you and require a bit
+of research. But also, if you are going to college to learn computer science, make
+it easier on yourself and learn linux now.
