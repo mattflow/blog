@@ -2,7 +2,7 @@
 layout: post
 title:  "Surviving College with Only a Chromebook"
 subtitle: "You don't need a $1000 laptop to get through college. You actually only need $180."
-date:   2017-11-14 6:59:00 -0400
+date:   2017-12-25 6:59:00 -0400
 author: "Matt Flowers"
 header-img: "assets/img/college-chromebook.jpg"
 comments: true
@@ -75,11 +75,13 @@ The last thing that is very important to me is entertainment. When I am done wit
 schoolwork and I want to sit back and relax, I go to websites like Netflix, YouTube,
 and Twitch. So I really just need a machine that can stream light video. When first
 getting my chromebook, it streamed video with no problems. It was fast, great quality,
-and it never heated up in my lap. Lately it hasn't been performing as well as I would
-like. Most video that I stream ends up stuttering and is not smooth. This is sad
-considering how spec'd out my chromebook is. I would need to see if it is just an
-issue with my somewhat old, used chromebook, or if it is actually a hardware issue.
-
+and it never heated up in my lap. I recently ran
+into performance issues and I was not able to
+stream video without constant studdering. I just
+opened the task manager and noticed that an
+extension was using more CPU than it should be.
+All I had to do was reinstall the extension and
+the problem was solved.
 
 ## Decision Time
 
@@ -89,5 +91,5 @@ or had to do any programming that couldn't be done on my chromebook, and online
 IDE, or a light xubuntu installation on my machine. I will say that I am a complete
 linux head, so if you are unfamiliar with development on linux, most of the 
 programming options I listed above might be difficult for you and require a bit
-of research. But also, if you are going to college to learn computer science, make
-it easier on yourself and learn linux now.
+of research. If you are headed off to college and you don't want to spend a fortune on a Macbook,
+give the simple chromebook a consideration.
